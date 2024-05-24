@@ -84,3 +84,24 @@ p{
         margin-top: 2rem;
     }
 }
+@media (max-width: 525px) {
+    .heroimg1{
+        width: 310px;
+        height: 256px;
+    }
+    .obama{
+        margin-top: -13rem;
+        /* color: white; */
+    }
+    .fonti{
+        width: 19rem;
+    }
+    .brutal1{
+        width: 310px;
+        height: 273.39px;
+    }
+    .brutal2{
+        width: 148.62px;
+        height: 121.51px;
+    }
+}
